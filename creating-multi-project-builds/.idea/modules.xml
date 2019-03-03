@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/creating-multi-project-builds.iml" filepath="$PROJECT_DIR$/creating-multi-project-builds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/greeting-library/creating-multi-project-builds.greeting-library.iml" filepath="$PROJECT_DIR$/.idea/modules/greeting-library/creating-multi-project-builds.greeting-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/greeting-library/creating-multi-project-builds.greeting-library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/greeting-library/creating-multi-project-builds.greeting-library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/greeting-library/creating-multi-project-builds.greeting-library.test.iml" filepath="$PROJECT_DIR$/.idea/modules/greeting-library/creating-multi-project-builds.greeting-library.test.iml" />
+    </modules>
+  </component>
+</project>
