@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <annotationProcessing>
-      <profile default="true" name="Default" enabled="true" />
-    </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="creating-multi-project-builds.greeter.main" target="1.8" />
-      <module name="creating-multi-project-builds.greeter.test" target="1.8" />
-      <module name="creating-multi-project-builds.greeting-library.main" target="1.8" />
-      <module name="creating-multi-project-builds.greeting-library.test" target="1.8" />
+      <module name="greeter_main" target="1.8" />
+      <module name="greeter_test" target="1.8" />
+      <module name="greeting-library_main" target="1.8" />
+      <module name="greeting-library_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

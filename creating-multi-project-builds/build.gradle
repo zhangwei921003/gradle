@@ -11,7 +11,8 @@ allprojects {
 }
 
 subprojects {
-    version = '1.0'
+    group = 'com.gradle'
+    version = '0.0.1-SNAPSHOT'
 }
 
 copy {
