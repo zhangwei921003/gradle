@@ -13,3 +13,9 @@ allprojects {
 subprojects {
     version = '1.0'
 }
+
+copy {
+    from "./config/githooks/"
+    into "./.git/hooks/"
+    fileMode 0755
+}
