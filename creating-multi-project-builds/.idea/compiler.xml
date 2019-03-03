@@ -5,6 +5,8 @@
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="creating-multi-project-builds.greeter.main" target="1.8" />
+      <module name="creating-multi-project-builds.greeter.test" target="1.8" />
       <module name="creating-multi-project-builds.greeting-library.main" target="1.8" />
       <module name="creating-multi-project-builds.greeting-library.test" target="1.8" />
     </bytecodeTargetLevel>
